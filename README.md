@@ -10,7 +10,7 @@ Built with HTML, CSS, and JavaScript — no frameworks, no hardware, just code.
 3. Click "Get Output" to see the result and the full truth table
 
 ## Live Demo
-(add link after deploying)
+<https://madanbhavip-crypto.github.io/logic-gate-simulator/>
 
 ## What I learned
 - Working with dropdowns and dynamic content in JavaScript
